@@ -43,5 +43,3 @@ jobs:
         coverity_passphrase: ${{ secrets.COVERITY_PASSPHRASE }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
         coverity_prComment_enabled: true
-
-      
